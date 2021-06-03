@@ -1,0 +1,15 @@
+.button {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21.6px;
+    color: #4F4F4F;
+    cursor: pointer;
+}
+
+.button__text{
+    margin-right: 11px;
+}
